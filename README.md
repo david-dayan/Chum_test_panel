@@ -1,2 +1,2 @@
-# Coho_test_panel
-testing out gtseq primers for Coho GTseq panel
+# Chum_test_panel
+testing out gtseq primers for Chum GTseq panel
